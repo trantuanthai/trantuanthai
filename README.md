@@ -1,3 +1,3 @@
-# Hi, I am Tran Tuan Thai 👋
+## Hi, welcome to my page 👋
 
-Now, I am studying at University Of Science - VNUHCM for Data Science major.
+My name is Tran Tuan Thai. I am studying at University Of Science - VNUHCM for Data Science major.
